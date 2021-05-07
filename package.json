@@ -1,0 +1,11 @@
+{
+  "name": "conventional-commit",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Aravindpc/conventional-commit.git",
+  "author": "Aravindpc <aravindpcaravi333@gmail.com>",
+  "license": "MIT",
+  "scripts":{
+"start":"node index.js"
+  }
+}
